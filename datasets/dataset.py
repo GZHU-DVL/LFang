@@ -3,7 +3,7 @@ from PIL import Image
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
 
-from utils.canny import image_to_edge
+from utils.lbp import image_to_edge
 from datasets.transform import mask_transforms, image_transforms
 from datasets.folder import make_dataset
 
