@@ -68,4 +68,4 @@ python test.py \
 
 ## Acknowledgments
 
-The code is developed based on CTSDG:https://github.com/Xiefan-Guo/CTSDG
+The code is developed based on CTSDG:https://github.com/Xiefan-Guo/CTSDG# LFang
